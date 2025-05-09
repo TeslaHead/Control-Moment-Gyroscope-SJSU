@@ -3,7 +3,7 @@ message: ""
 authors:
 - family-names: "Nguyen"
   given-names: "Jason"
-  affiliation: San Jose State University
+  affiliation: San José State University
   orcid: ""
 title: "Control Moment Gyroscope SJSU"
 version: 1.0.0
