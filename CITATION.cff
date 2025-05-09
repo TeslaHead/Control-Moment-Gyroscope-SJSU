@@ -1,16 +1,11 @@
-  cff-version: 1.2.0
+cff-version: 1.2.0
+message: ""
+authors:
+- family-names: "Nguyen"
+  given-names: "Jason"
+  orcid: ""
 title: "Control Moment Gyroscope SJSU"
 version: 1.0.0
-license: "MIT"
-type: software
 doi: 10.5281/zenodo.15377136
 date-released: 2025-05-09
-authors:
-  - given-names: Jason
-    family-names: Nguyen
-    affiliation: San Jose State University
-keywords:
-  - Control Moment Gyroscope
-  - Gain-Scheduling
-  - Calibrating
-  - Dynamics and Controls
+url: "https://github.com/TeslaHead/Control-Moment-Gyroscope-SJSU"
