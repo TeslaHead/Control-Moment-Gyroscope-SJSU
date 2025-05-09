@@ -9,7 +9,6 @@ authors:
   - given-names: Jason
     family-names: Nguyen
     affiliation: San Jose State University
-    orcid: ""
 keywords:
   - Control Moment Gyroscope
   - Gain-Scheduling
